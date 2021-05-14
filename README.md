@@ -1,5 +1,5 @@
 # ASL IN ASCII
-American Sign Language application.
+American Sign Language application in ASCII.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
